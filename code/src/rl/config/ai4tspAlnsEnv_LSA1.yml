@@ -1,0 +1,116 @@
+# Arguments that get passed to the constructor of your class instance
+# as config={} keyword
+environment:
+    iterations: 100
+    instances: [ 'instance0001', 'instance0002', 'instance0003', 'instance0004', 'instance0005', 'instance0006', 'instance0007', 'instance0008', 'instance0009', 'instance0010', 'instance0011', 'instance0012', 'instance0013', 'instance0014', 'instance0015', 'instance0016', 'instance0017', 'instance0018', 'instance0019', 'instance0020', 'instance0021', 'instance0022', 'instance0023', 'instance0024', 'instance0025', 'instance0026', 'instance0027', 'instance0028', 'instance0029', 'instance0030', 'instance0031', 'instance0032', 'instance0033', 'instance0034', 'instance0035', 'instance0036', 'instance0037', 'instance0038', 'instance0039', 'instance0040', 'instance0041', 'instance0042', 'instance0043', 'instance0044', 'instance0045', 'instance0046', 'instance0047', 'instance0048', 'instance0049', 'instance0050', 'instance0051', 'instance0052', 'instance0053', 'instance0054', 'instance0055', 'instance0056', 'instance0057', 'instance0058', 'instance0059', 'instance0060', 'instance0061', 'instance0062', 'instance0063', 'instance0064', 'instance0065', 'instance0066', 'instance0067', 'instance0068', 'instance0069', 'instance0070', 'instance0071', 'instance0072', 'instance0073', 'instance0074', 'instance0075', 'instance0076', 'instance0077', 'instance0078', 'instance0079', 'instance0080', 'instance0081', 'instance0082', 'instance0083', 'instance0084', 'instance0085', 'instance0086', 'instance0087', 'instance0088', 'instance0089', 'instance0090', 'instance0091', 'instance0092', 'instance0093', 'instance0094', 'instance0095', 'instance0096', 'instance0097', 'instance0098', 'instance0099', 'instance0100', 'instance0101', 'instance0102', 'instance0103', 'instance0104', 'instance0105', 'instance0106', 'instance0107', 'instance0108', 'instance0109', 'instance0110', 'instance0111', 'instance0112', 'instance0113', 'instance0114', 'instance0115', 'instance0116', 'instance0117', 'instance0118', 'instance0119', 'instance0120', 'instance0121', 'instance0122', 'instance0123', 'instance0124', 'instance0125', 'instance0126', 'instance0127', 'instance0128', 'instance0129', 'instance0130', 'instance0131', 'instance0132', 'instance0133', 'instance0134', 'instance0135', 'instance0136', 'instance0137', 'instance0138', 'instance0139', 'instance0140', 'instance0141', 'instance0142', 'instance0143', 'instance0144', 'instance0145', 'instance0146', 'instance0147', 'instance0148', 'instance0149', 'instance0150', 'instance0151', 'instance0152', 'instance0153', 'instance0154', 'instance0155', 'instance0156', 'instance0157', 'instance0158', 'instance0159', 'instance0160', 'instance0161', 'instance0162', 'instance0163', 'instance0164', 'instance0165', 'instance0166', 'instance0167', 'instance0168', 'instance0169', 'instance0170', 'instance0171', 'instance0172', 'instance0173', 'instance0174', 'instance0175', 'instance0176', 'instance0177', 'instance0178', 'instance0179', 'instance0180', 'instance0181', 'instance0182', 'instance0183', 'instance0184', 'instance0185', 'instance0186', 'instance0187', 'instance0188', 'instance0189', 'instance0190', 'instance0191', 'instance0192', 'instance0193', 'instance0194', 'instance0195', 'instance0196', 'instance0197', 'instance0198', 'instance0199', 'instance0200', 'instance0201', 'instance0202', 'instance0203', 'instance0204', 'instance0205', 'instance0206', 'instance0207', 'instance0208', 'instance0209', 'instance0210', 'instance0211', 'instance0212', 'instance0213', 'instance0214', 'instance0215', 'instance0216', 'instance0217', 'instance0218', 'instance0219', 'instance0220', 'instance0221', 'instance0222', 'instance0223', 'instance0224', 'instance0225', 'instance0226', 'instance0227', 'instance0228', 'instance0229', 'instance0230', 'instance0231', 'instance0232', 'instance0233', 'instance0234', 'instance0235', 'instance0236', 'instance0237', 'instance0238', 'instance0239', 'instance0240', 'instance0241', 'instance0242', 'instance0243', 'instance0244', 'instance0245', 'instance0246', 'instance0247', 'instance0248', 'instance0249', 'instance0250' ]
+    # instances: ['instance0251', 'instance0252', 'instance0253', 'instance0254', 'instance0255', 'instance0256', 'instance0257', 'instance0258', 'instance0259', 'instance0260', 'instance0261', 'instance0262', 'instance0263', 'instance0264', 'instance0265', 'instance0266', 'instance0267', 'instance0268', 'instance0269', 'instance0270', 'instance0271', 'instance0272', 'instance0273', 'instance0274', 'instance0275', 'instance0276', 'instance0277', 'instance0278', 'instance0279', 'instance0280', 'instance0281', 'instance0282', 'instance0283', 'instance0284', 'instance0285', 'instance0286', 'instance0287', 'instance0288', 'instance0289', 'instance0290', 'instance0291', 'instance0292', 'instance0293', 'instance0294', 'instance0295', 'instance0296', 'instance0297', 'instance0298', 'instance0299', 'instance0300', 'instance0301', 'instance0302', 'instance0303', 'instance0304', 'instance0305', 'instance0306', 'instance0307', 'instance0308', 'instance0309', 'instance0310', 'instance0311', 'instance0312', 'instance0313', 'instance0314', 'instance0315', 'instance0316', 'instance0317', 'instance0318', 'instance0319', 'instance0320', 'instance0321', 'instance0322', 'instance0323', 'instance0324', 'instance0325', 'instance0326', 'instance0327', 'instance0328', 'instance0329', 'instance0330', 'instance0331', 'instance0332', 'instance0333', 'instance0334', 'instance0335', 'instance0336', 'instance0337', 'instance0338', 'instance0339', 'instance0340', 'instance0341', 'instance0342', 'instance0343', 'instance0344', 'instance0345', 'instance0346', 'instance0347', 'instance0348', 'instance0349', 'instance0350', 'instance0351', 'instance0352', 'instance0353', 'instance0354', 'instance0355', 'instance0356', 'instance0357', 'instance0358', 'instance0359', 'instance0360', 'instance0361', 'instance0362', 'instance0363', 'instance0364', 'instance0365', 'instance0366', 'instance0367', 'instance0368', 'instance0369', 'instance0370', 'instance0371', 'instance0372', 'instance0373', 'instance0374', 'instance0375', 'instance0376', 'instance0377', 'instance0378', 'instance0379', 'instance0380', 'instance0381', 'instance0382', 'instance0383', 'instance0384', 'instance0385', 'instance0386', 'instance0387', 'instance0388', 'instance0389', 'instance0390', 'instance0391', 'instance0392', 'instance0393', 'instance0394', 'instance0395', 'instance0396', 'instance0397', 'instance0398', 'instance0399', 'instance0400', 'instance0401', 'instance0402', 'instance0403', 'instance0404', 'instance0405', 'instance0406', 'instance0407', 'instance0408', 'instance0409', 'instance0410', 'instance0411', 'instance0412', 'instance0413', 'instance0414', 'instance0415', 'instance0416', 'instance0417', 'instance0418', 'instance0419', 'instance0420', 'instance0421', 'instance0422', 'instance0423', 'instance0424', 'instance0425', 'instance0426', 'instance0427', 'instance0428', 'instance0429', 'instance0430', 'instance0431', 'instance0432', 'instance0433', 'instance0434', 'instance0435', 'instance0436', 'instance0437', 'instance0438', 'instance0439', 'instance0440', 'instance0441', 'instance0442', 'instance0443', 'instance0444', 'instance0445', 'instance0446', 'instance0447', 'instance0448', 'instance0449', 'instance0450', 'instance0451', 'instance0452', 'instance0453', 'instance0454', 'instance0455', 'instance0456', 'instance0457', 'instance0458', 'instance0459', 'instance0460', 'instance0461', 'instance0462', 'instance0463', 'instance0464', 'instance0465', 'instance0466', 'instance0467', 'instance0468', 'instance0469', 'instance0470', 'instance0471', 'instance0472', 'instance0473', 'instance0474', 'instance0475', 'instance0476', 'instance0477', 'instance0478', 'instance0479', 'instance0480', 'instance0481', 'instance0482', 'instance0483', 'instance0484', 'instance0485', 'instance0486', 'instance0487', 'instance0488', 'instance0489', 'instance0490', 'instance0491', 'instance0492', 'instance0493', 'instance0494', 'instance0495', 'instance0496', 'instance0497', 'instance0498', 'instance0499', 'instance0500']
+    # instances: ['instance0501', 'instance0502', 'instance0503', 'instance0504', 'instance0505', 'instance0506', 'instance0507', 'instance0508', 'instance0509', 'instance0510', 'instance0511', 'instance0512', 'instance0513', 'instance0514', 'instance0515', 'instance0516', 'instance0517', 'instance0518', 'instance0519', 'instance0520', 'instance0521', 'instance0522', 'instance0523', 'instance0524', 'instance0525', 'instance0526', 'instance0527', 'instance0528', 'instance0529', 'instance0530', 'instance0531', 'instance0532', 'instance0533', 'instance0534', 'instance0535', 'instance0536', 'instance0537', 'instance0538', 'instance0539', 'instance0540', 'instance0541', 'instance0542', 'instance0543', 'instance0544', 'instance0545', 'instance0546', 'instance0547', 'instance0548', 'instance0549', 'instance0550', 'instance0551', 'instance0552', 'instance0553', 'instance0554', 'instance0555', 'instance0556', 'instance0557', 'instance0558', 'instance0559', 'instance0560', 'instance0561', 'instance0562', 'instance0563', 'instance0564', 'instance0565', 'instance0566', 'instance0567', 'instance0568', 'instance0569', 'instance0570', 'instance0571', 'instance0572', 'instance0573', 'instance0574', 'instance0575', 'instance0576', 'instance0577', 'instance0578', 'instance0579', 'instance0580', 'instance0581', 'instance0582', 'instance0583', 'instance0584', 'instance0585', 'instance0586', 'instance0587', 'instance0588', 'instance0589', 'instance0590', 'instance0591', 'instance0592', 'instance0593', 'instance0594', 'instance0595', 'instance0596', 'instance0597', 'instance0598', 'instance0599', 'instance0600', 'instance0601', 'instance0602', 'instance0603', 'instance0604', 'instance0605', 'instance0606', 'instance0607', 'instance0608', 'instance0609', 'instance0610', 'instance0611', 'instance0612', 'instance0613', 'instance0614', 'instance0615', 'instance0616', 'instance0617', 'instance0618', 'instance0619', 'instance0620', 'instance0621', 'instance0622', 'instance0623', 'instance0624', 'instance0625', 'instance0626', 'instance0627', 'instance0628', 'instance0629', 'instance0630', 'instance0631', 'instance0632', 'instance0633', 'instance0634', 'instance0635', 'instance0636', 'instance0637', 'instance0638', 'instance0639', 'instance0640', 'instance0641', 'instance0642', 'instance0643', 'instance0644', 'instance0645', 'instance0646', 'instance0647', 'instance0648', 'instance0649', 'instance0650', 'instance0651', 'instance0652', 'instance0653', 'instance0654', 'instance0655', 'instance0656', 'instance0657', 'instance0658', 'instance0659', 'instance0660', 'instance0661', 'instance0662', 'instance0663', 'instance0664', 'instance0665', 'instance0666', 'instance0667', 'instance0668', 'instance0669', 'instance0670', 'instance0671', 'instance0672', 'instance0673', 'instance0674', 'instance0675', 'instance0676', 'instance0677', 'instance0678', 'instance0679', 'instance0680', 'instance0681', 'instance0682', 'instance0683', 'instance0684', 'instance0685', 'instance0686', 'instance0687', 'instance0688', 'instance0689', 'instance0690', 'instance0691', 'instance0692', 'instance0693', 'instance0694', 'instance0695', 'instance0696', 'instance0697', 'instance0698', 'instance0699', 'instance0700', 'instance0701', 'instance0702', 'instance0703', 'instance0704', 'instance0705', 'instance0706', 'instance0707', 'instance0708', 'instance0709', 'instance0710', 'instance0711', 'instance0712', 'instance0713', 'instance0714', 'instance0715', 'instance0716', 'instance0717', 'instance0718', 'instance0719', 'instance0720', 'instance0721', 'instance0722', 'instance0723', 'instance0724', 'instance0725', 'instance0726', 'instance0727', 'instance0728', 'instance0729', 'instance0730', 'instance0731', 'instance0732', 'instance0733', 'instance0734', 'instance0735', 'instance0736', 'instance0737', 'instance0738', 'instance0739', 'instance0740', 'instance0741', 'instance0742', 'instance0743', 'instance0744', 'instance0745', 'instance0746', 'instance0747', 'instance0748', 'instance0749', 'instance0750']
+
+main:
+    # MODELS:
+    # -----
+    # For discrete action space environments:
+    #     PPO2, DQN, ACER, A2C, ACKTR
+    # For continuous action space environments:
+    #     PPO2, A2C
+
+    # POLICIES:
+    # ---------
+    #     Defaults:
+    #         CnnPolicy - CNN as described in 2014 Atari paper
+    #         ActorCriticPolicy - simple MLP with two hidden layers of size 64 (old name MlpPolicy)
+
+    # to understand the steps/time setup of training read:
+    # https://stackoverflow.com/questions/56700948/understanding-the-total-timesteps-parameter-in-stable-baselines-models
+
+    model: PPO
+    policy: ActorCriticPolicy
+    n_workers: 10      # Parallel environments
+    n_steps: 300000    # Steps to train
+    save_every: 20000 # Save a checkpoint of the model every n steps (must be divisible by n_workers!)
+#    eval_callback: false
+#    eval_every: 10000
+
+    # Tensorboard logs for environment attributes e.g. self.steps
+    logs:
+
+models:
+    PPO:
+        n_steps: 256         # Batch size (n_steps * n_workers)
+        batch_size: 64      # Number of minibatches for SGD/Adam updates
+        n_epochs: 10        # Number of iterations for SGD/Adam
+        gamma: 0.99          # Discount factor for future rewards
+        gae_lambda: 0.95     # Generalized advantage estimation, for controlling variance/bias tradeoff (lam in PPO2)
+        clip_range: 0.2       # Clip factor for PPO (the action probability distribution of the updated policy cannot differ from the old one by this fraction [measured by KL divergence])
+        ent_coef: 0.0       # Entropy loss coefficient (higher values encourage more exploration)
+        learning_rate: 0.0003 # LR
+        vf_coef: 0.5         # The contribution of value function loss to the total loss of the network
+        max_grad_norm: 0.5   # Max range of the gradient clipping
+        verbose: 1          # the verbosity level: 0 no output, 1 info, 2 debug
+
+
+    DQN:
+        gamma: 0.99
+        learning_rate: 0.001
+        buffer_size: 20000
+        exploration_fraction: 0.1
+        exploration_final_eps: 0.01
+        train_freq: 1
+        batch_size: 32
+        learning_starts: 1000
+        target_network_update_freq: 500
+        prioritized_replay: false
+        prioritized_replay_alpha: 0.2
+        prioritized_replay_beta0: 0.4
+        prioritized_replay_beta_iters: None
+        prioritized_replay_eps: 0.000001
+        param_noise: False
+        verbose: 1
+        full_tensorboard_log: False
+        _init_setup_model: True
+    A2C:
+        learning_rate: 0.0007
+        n_steps: 5
+        gamma: 0.99
+        gae_lambda: 1.0
+        ent_coef: 0.0
+        vf_coef: 0.5
+        max_grad_norm: 0.5
+        verbose: 1
+
+    ACER:
+        gamma: 0.99
+        n_steps: 20
+        num_procs: 1
+        q_coef: 0.5
+        ent_coef: 0.01
+        max_grad_norm: 10
+        learning_rate: 0.0007
+        lr_schedule: linear
+        rprop_alpha: 0.99
+        rprop_epsilon: 0.0001
+        buffer_size: 5000
+        replay_ratio: 4
+        replay_start: 1000
+        correction_term: 10.0
+        trust_region: true
+        alpha: 0.99
+        delta: 1
+        verbose: 0
+    ACKTR:
+        gamma: 0.99
+        nprocs: 1
+        n_steps: 20
+        ent_coef: 0.01
+        vf_coef: 0.25
+        vf_fisher_coef: 1.0
+        learning_rate: 0.25
+        max_grad_norm: 0.5
+        kfac_clip: 0.001
+        lr_schedule: linear
+        verbose: 0
+        async_eigen_decomp: False
+        full_tensorboard_log: False
+
+
+

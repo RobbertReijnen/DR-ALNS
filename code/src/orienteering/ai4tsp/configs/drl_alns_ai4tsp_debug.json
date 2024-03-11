@@ -1,0 +1,6 @@
+{
+  "rseed": 1,
+  "iterations": 10,
+  "problem_instance": "instance0052",
+  "model_directory": "rl/trained_models/rl/ai4tspAlnsEnv_LSA1/models/DR-ALNS_ai4tsp_20/"
+}

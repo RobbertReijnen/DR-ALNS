@@ -1,0 +1,10 @@
+{
+  "rseed": 1,
+  "instance_file": "routing/mtsp/data/mtsp_100_10000.pkl",
+  "instance_nr": 9999,
+  "iterations": 1000,
+  "model_directory": "rl/trained_models/rl/mtspAlnsEnv_LSA1/models/DR-ALNS_mTSP_100/"
+
+}
+
+

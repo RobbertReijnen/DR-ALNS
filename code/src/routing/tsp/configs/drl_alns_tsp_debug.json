@@ -1,0 +1,7 @@
+{"rseed": 1,
+ "instance_file": "routing/tsp/data/tsp_100_10000.pkl",
+ "iterations": 1000,
+ "instance_nr": 9999,
+  "model_directory": "rl/trained_models/rl/tspAlnsEnv_LSA1/models/DR-ALNS_TSP_100/"
+}
+
