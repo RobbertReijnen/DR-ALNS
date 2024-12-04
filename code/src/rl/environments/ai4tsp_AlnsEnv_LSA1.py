@@ -1,7 +1,7 @@
 import copy
 
 import os
-import gym
+import gymnasium as gym
 import random
 from alns import ALNS
 import numpy as np

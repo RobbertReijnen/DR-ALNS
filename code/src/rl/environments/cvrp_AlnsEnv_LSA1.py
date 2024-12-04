@@ -1,6 +1,6 @@
 import copy
 import time
-import gym
+import gymnasium as gym
 import random
 from alns import ALNS
 import numpy as np

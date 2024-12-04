@@ -4,7 +4,7 @@ from stable_baselines3.common.monitor import Monitor
 from stable_baselines3.common.callbacks import CallbackList, CheckpointCallback, EvalCallback
 import stable_baselines3.common.policies
 import os, yaml, subprocess, webbrowser, time, datetime
-import gym
+import gymnasium as gym
 import rl.settings as settings
 import rl.environments
 
