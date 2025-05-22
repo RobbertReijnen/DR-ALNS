@@ -24,6 +24,7 @@ To use DR-ALNS for solving COPs, follow these steps:
 
 If you use DR-ALNS in your research or work, please cite the following paper:
 
+```
 @inproceedings{reijnen2024online,
   title={Online control of adaptive large neighborhood search using deep reinforcement learning},
   author={Reijnen, Robbert and Zhang, Yingqian and Lau, Hoong Chuin and Bukhsh, Zaharah},
@@ -32,3 +33,4 @@ If you use DR-ALNS in your research or work, please cite the following paper:
   pages={475--483},
   year={2024}
 }
+```
