@@ -1,4 +1,4 @@
-[![Published in Journal X](https://img.shields.io/badge/Published-JournalX-blue)](https://ojs.aaai.org/index.php/ICAPS/article/view/31507)
+[![Published in ICAPS 202](https://img.shields.io/badge/Published-ICAPS2024-blue)](https://ojs.aaai.org/index.php/ICAPS/article/view/31507)
 
 ## DR-ALNS: Deep Reinforced Adaptive Large Neighborhood Search
 
