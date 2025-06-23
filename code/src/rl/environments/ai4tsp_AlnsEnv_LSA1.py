@@ -1,6 +1,7 @@
-import copy
-
 import os
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+
+import copy
 import gymnasium as gym
 import random
 from alns import ALNS
@@ -75,7 +76,7 @@ class ai4tspAlnsEnv_LSA1(gym.Env):
 
         return state
 
-    def reset(self):
+    def reset(self, seed=None, options=None):
         """
         The reset method: returns the current state of the environment (first state after initialization/reset)
         """
@@ -121,7 +122,7 @@ class ai4tspAlnsEnv_LSA1(gym.Env):
         self.iteration, self.reward = 0, 0
         self.done = False
 
-        return self.make_observation()
+        return self.make_observation(), {}
 
     def step(self, action, **kwargs):
         self.iteration += 1
@@ -185,7 +186,7 @@ class ai4tspAlnsEnv_LSA1(gym.Env):
         if self.iteration == self.max_iterations:
             self.done = True
 
-        return state, self.reward, self.done, {}
+        return state, self.reward, self.done, False, {}
 
     # --------------------------------------------------------------------------------------------------------------------
 
