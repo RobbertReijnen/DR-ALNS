@@ -1,3 +1,5 @@
+[![Published in ICAPS 202](https://img.shields.io/badge/Published-ICAPS2024-blue)](https://ojs.aaai.org/index.php/ICAPS/article/view/31507)
+
 ## DR-ALNS: Deep Reinforced Adaptive Large Neighborhood Search
 
 DR-ALNS introduces an innovative methodology that leverages Deep Reinforcement Learning (DRL) to configure the Adaptive Large Neighborhood Search (ALNS) algorithm for solving combinatorial optimization problems (COPs). This method learns to select operators, fine-tune parameters, and regulate the acceptance criterion during the search process to dynamically configure ALNS based on the search state, aiming to yield more effective solutions in subsequent iterations. This repository contains the implementation code for DR-ALNS as described in the paper titled "Online Control of Adaptive Large Neighborhood Search Using Deep Reinforcement Learning".
@@ -24,6 +26,7 @@ To use DR-ALNS for solving COPs, follow these steps:
 
 If you use DR-ALNS in your research or work, please cite the following paper:
 
+```
 @inproceedings{reijnen2024online,
   title={Online control of adaptive large neighborhood search using deep reinforcement learning},
   author={Reijnen, Robbert and Zhang, Yingqian and Lau, Hoong Chuin and Bukhsh, Zaharah},
@@ -32,3 +35,4 @@ If you use DR-ALNS in your research or work, please cite the following paper:
   pages={475--483},
   year={2024}
 }
+```
